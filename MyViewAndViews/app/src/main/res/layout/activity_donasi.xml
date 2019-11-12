@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DonasiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#006">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="DONASI"
+                android:layout_marginBottom="20dp"
+                android:layout_marginLeft="@dimen/activity_horizontal_layout"
+                android:layout_marginRight="@dimen/activity_horizontal_layout"
+                android:layout_marginTop="20dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:textColor="#fff"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txtNama"
+            android:text="Nama"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/edtNama"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:layout_marginRight="@dimen/activity_horizontal_layout"
+            android:hint="Masukan Nama"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txtEmail"
+            android:text="Email"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/edtEmail"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:layout_marginRight="@dimen/activity_horizontal_layout"
+            android:hint="Masukan Email"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txtDonasi"
+            android:text="Jumlah Donasi"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/edtDonasi"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:layout_marginRight="@dimen/activity_horizontal_layout"
+            android:hint="Masukan Jumlah Donasi"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/txtCatatan"
+            android:text="Tambah Catatan"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:inputType="textMultiLine"
+            android:lines="10"
+            android:background="#ccf"
+            android:height="140dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/edtCatatan"
+            android:layout_marginTop="@dimen/activity_vertical_layout"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:layout_marginRight="@dimen/activity_horizontal_layout"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/btnBayar"
+            android:text="PEMBAYARAN"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="@dimen/activity_horizontal_layout"
+            android:layout_marginLeft="@dimen/activity_horizontal_layout"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:background="#006"
+            android:textColor="#fff"/>
+    </LinearLayout>
+
+</ScrollView>
