@@ -39,3 +39,42 @@ g. Halaman Output
 
 ![Donasi](https://user-images.githubusercontent.com/53525860/69009056-584d1080-0984-11ea-9bfc-f2d9de6f7de3.jpg)
 
+4. SignUpApp
+
+a. SignUpApp1
+
+![1  Signupapp1](https://user-images.githubusercontent.com/53525860/69010615-01e7ce00-0994-11ea-8c5d-c1f2b6f1d97a.jpg)
+
+b. SignUpApp2
+
+![2  Signupapp2](https://user-images.githubusercontent.com/53525860/69010618-06ac8200-0994-11ea-978a-e0e846a55606.jpg)
+
+5. MyActionBar
+
+![1  Myactionbar1](https://user-images.githubusercontent.com/53525860/69010623-0c09cc80-0994-11ea-8870-bf1d5660fb16.jpg)
+
+![2  Myactionbar2](https://user-images.githubusercontent.com/53525860/69010626-0f9d5380-0994-11ea-952a-b1521989dd9c.jpg)
+
+![3  Myactionbar3](https://user-images.githubusercontent.com/53525860/69010627-14fa9e00-0994-11ea-95d5-73900abccac7.jpg)
+
+![4  Myactionbar4](https://user-images.githubusercontent.com/53525860/69010630-19bf5200-0994-11ea-855e-42be4b048f0c.jpg)
+
+![5  Myactionbar5](https://user-images.githubusercontent.com/53525860/69010631-1d52d900-0994-11ea-95e3-72d4ab3826b8.jpg)
+
+6. FlexibleFragment
+
+a. Fragment1
+
+![1  Fragment1](https://user-images.githubusercontent.com/53525860/69010633-2643aa80-0994-11ea-88f4-d94292fc3d98.jpg)
+
+b. Fragment2
+
+![2  Fragment 2](https://user-images.githubusercontent.com/53525860/69010634-293e9b00-0994-11ea-9e36-1e314f6789d6.jpg)
+
+c. Fragment3
+
+![3  Fragment 3](https://user-images.githubusercontent.com/53525860/69010639-2fcd1280-0994-11ea-833c-089d69bf82ae.jpg)
+
+7. MyRecycleView
+
+![Myrecicleview](https://user-images.githubusercontent.com/53525860/69010643-365b8a00-0994-11ea-890a-0804262af222.jpg)
