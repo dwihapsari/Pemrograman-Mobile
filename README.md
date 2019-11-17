@@ -34,3 +34,8 @@ f. Halaman Input
 g. Halaman Output
 
 ![7  Halaman Output](https://user-images.githubusercontent.com/53525860/69009008-82ea9980-0983-11ea-9f3f-ffe452b6658c.jpg)
+
+3. MyViewAndViews
+
+![Donasi](https://user-images.githubusercontent.com/53525860/69009056-584d1080-0984-11ea-9bfc-f2d9de6f7de3.jpg)
+
