@@ -2,9 +2,11 @@
 3.34.18.0.08 Dwi Hapsari
 
 1. MyFirstExercise 
+
 ![Tugas1](https://user-images.githubusercontent.com/53525860/69008896-48343180-0982-11ea-90f3-e590a22f6bcc.jpg)
 
 2. MyIntentApp
+
 a. Dashboard
 ![1  Dashboard](https://user-images.githubusercontent.com/53525860/69008957-0ce63280-0983-11ea-95ae-e3d076726314.jpg)
 
