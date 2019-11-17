@@ -78,3 +78,11 @@ c. Fragment3
 7. MyRecycleView
 
 ![Myrecicleview](https://user-images.githubusercontent.com/53525860/69010643-365b8a00-0994-11ea-890a-0804262af222.jpg)
+
+UTS
+
+![1  uts1](https://user-images.githubusercontent.com/53525860/69010749-41fb8080-0995-11ea-87ea-657d496dbdd4.jpg)
+
+![2  uts2](https://user-images.githubusercontent.com/53525860/69010751-43c54400-0995-11ea-9bd5-109230b4efe1.jpg)
+
+![3  uts3](https://user-images.githubusercontent.com/53525860/69010752-46279e00-0995-11ea-8136-b7a480c7244b.jpg)
