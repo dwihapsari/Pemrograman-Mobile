@@ -24,8 +24,11 @@ public class ThirdFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        ((MainActivity)getActivity()).getSupportActionBar().setTitle("Fragment Ketiga");
+        ((MainActivity)getActivity()).getSupportActionBar().setSubtitle("(fragment_third.xml)");
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_third, container, false);
+
     }
 
 }

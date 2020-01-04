@@ -1,5 +1,7 @@
 package com.hapsari.dramakorea;
 
+import android.graphics.drawable.RippleDrawable;
+
 import java.util.ArrayList;
 
 public class DrakorData {
@@ -17,40 +19,43 @@ public class DrakorData {
     };
 
     public static String[] NamaDrakor = {
-            "The Heirs (2013)",
-            "Descendants Of The Sun (2016)",
-            "While You Were Sleeping (2017)",
-            "Strong Woman Do Bong Soon (2017)",
-            "Goblin (2017)",
-            "Legend Of The Blue Sea (2017)",
-            "Gangnam Beauty (2018)",
-            "Are You Human Too? (2018)",
-            "Hotel De Luna (2019)"
+            "Gudeg",
+            "Krecek",
+            "Bakpia Pathok",
+            "Yangko",
+            "Cilok Gajahan",
+            "Cenil",
+            "Sate Klatak",
+            "Jadah Tempe Mbah Carik",
+            "Sate Kelinci Mbah Ganis",
+            "Enthog Slenget Kang Tanir"
     };
 
 
     public static String[] DeskripsiDrakor = {
-            "The Heirs merupakan salah satu Drama Korea yang berkisah mengenai komedi romantis diantara pewaris sebuah perusahaan dengan seorang gadis dari kalangan biasa. Drama yang juga di produksi oleh DramaFever ini mampu menarik perhatian para penonton dengan tampilnya Lee Min Ho dan Park Shin Hye sebagai bintang utamanya",
-            "Descendants Of The Sun adalah salah satu Drama Korea tahun 2016 yang dibintangi oleh Song Joong-ki, Soong Hye-kyo, Jin Goo dan Kim Jiwon yang menceritakan tentang kehidupan tentara dan medis. Drama ini disiarkan di televisi KBS2 dengan 16 episode",
-            "While You Were Sleeping merupakan salah satu Drama Korea yang dibintangi oleh Lee Jong-suk, Bae Suzy dan Jung Hae in. Drama ini ditayangkan di SBS dengan sejumlah 32 episode. Drama ini menceritakan kisah seorang wanita yang dapat melihat peristiwa melalui mimpinya yang kemudian mimpi tersebut akan menjadi kenyataan",
-            "Strong Woman Do Bong Soon adalah drama jTBC yang tayang pada tahun 2017. Drama bergenre supranatural dengan alur yang dilengkapi dengan cerita romantis dan penuh kekonyolan menjadi drama yang digemari para pecinta drama Korea. Drama ini menampilkan Park Bo Young sebagai pemeran wanita sementara pemain utama pria diperankan oleh Park Hyung Shik",
-            "Goblin merupakan serial Drama Korea yang tayang di TV kabel tVn pada tahun 2017. Drama ini menceritakan mengenai seorang pria bernama Kim Shin yang merupakan sosok goblin atau peri yang ditugaskan sebagai peri pelindung nyawa. Kim SHin tinggal dengan malaikat maut yang tengah menderita amnesia bernama Wang Yeo.",
-            "Legend Of The Blue Sea adalah serial drama Korea yang tayang pada tahun 2017. Drama ini dibintangi oleh aktor Lee Min Ho dan aktris Jun Ji Hyun. Drama ini berlatarkan zaman Joseon dan zaman masa kini, dimana Jun Ji Hyun berperan sebagai putri duyung dan aktor Lee Min Ho berperan sebagai lelaki licik",
-            "Gangnam Beauty merupakan salah satu serial drama Korea yang tayang pada tahun 2018 lalu. Drama ini dibintangi oleh Cha Eun wo yang merupakan anggota dari Boyband ASTRO dan Jo Woori. Drama ini menceritakan kehidupan kampus dimana Jo Woori berperan sebagai gadis yang melakukan operasi plastik demi memperbaiki kehidupannya di masa lalu.",
-            "Are You Human Too merupakan salah satu serial Drama Korea yang tayang pada tahun 2018 lalu dengan diperankan oleh Seo Kang Joon dan Gang Seung yeon. Drama ini tayang di sebuah stasiun televisi korea KBS2. Drama ini menceritakan tentang sebuah robot bernama Namshin III yang merupakan tiruan dari seorang konglomerat kaya raya yang sedang koma.",
-            "Hotel De Luna adalah salah satu serial drama korea yang dibintangi oleh penyanyi terkenal Korea Selatan IU dan aktor terkenal Yeo Jin Go. Drama ini tayang di stasiun tv korea tVn. Drama ini menceritakan seorang wanita yang hidup beberapa ribu yang lalu. Wanita ini mempunyai hotel yang diberi nama Hotel De Luna."
+           "Makanan khas yogyakarta yang terkenal ini tentunya sudah akrab di telinga anda. Hampir setiap pengunjung yang datang ke jogja pasti akan mendatangi rumah makan yang menjual gudeg. Sentra wisata kuliner gudeg di jogja yang paling terkenal berada di sekitaran dekat kampus UGM dan juga sekitar plengkung kraton dekat alun-alun kidul. Gudeg jogja ada tiga jenis, yaitu basah, manggar, dan kering. Bagi anda yang ingin membawa gudeg sebagai oleh oleh, disarankan untuk membeli gudeg kering saja agar tahan lama.",
+            "Makanan khas jogja selain gudeg adalah sambal krecek yang banyak disukai orang. Sambal krecek biasanya disajikan bersama dengan gudeg manis sehingga dapat menambah selera makan anda. Rasa sambal krecek sendiri dominan pedas dan gurih.",
+            "Bila anda berada di jogja, jangan bingung untuk membeli oleh oleh makanan khas jogja. Sebut saja bakpia pathuk, maka anda akan dibawa ke sekitar jalan mataram dekat malioboro yang merupakan sentra penjualan bakpia pathuk. Anda dapat memilih bakpia pathuk beraneka merk dan rasa di jalan ini. Tekstur kue yang berasal dari campuran kacang hijau dan gula yang dibalut dengan kulit tepung kemudian dipanggang ini sungguh sangat memanjakan lidah. Bakpia pathuk, krispi diluar namun lembut di dalam.",
+            "Ketika anda mampir ke jalan mataram sembari membeli bakpia atau ke toko oleh-oleh di wilayah jogja, jangan lupa dengan makanan khas jogja yangko ini. Yangko biasanya berbentuk persegi dengan warna-warna yang cerah sesuai dengan rasanya. Teksturnya lembut, kenyal, dan manis karena terdapat taburan tepung khusus sebagai ciri khas dari kue yangko.",
+            "Makanan ini cukup terkenal dan fenomenal. Bahkan sekarang sudah buka cabang dari yang tadinya hanya dijual memakai gerobak di sekitar alun-alun kidul, sekarang sudah membuka cabang di daerah jalan kaliurang. Meskipun jajanan ini berasal dari jawa barat, namun cilok gajahan mampu menjadi primadona jajanan masyarakat jogja lintas usia.",
+            "Jika anda mencari makanan ringan khas jogja, maka jawabannya adalah cenil. Meskipun di seantero pulau jawa cenil ini sudah terkenal dan bahkan di setiap daerah mempunyai kekhasan cenil masing-masing, namun tidak ada salahnya anda mencoba cenil khas jogja ini.",
+            "Sate klatak masuk ke dalam daftar makanan khas jogja yang enak. Jika anda sedang berkunjung ke daerah Jejeran, Pleret, Bantul, maka anda wajib mencoba sate klathak ini. Keunikan dari sate klathak ini adalah potongan daging kambing muda yang ditusuk memakai jeruji, berbeda dari sate pada umumnya. Bumbu yang dipakai pun sedikit berbeda ditambah dengan siraman kuah gulai yang menggugah selera akan menambah selera makan anda.",
+            "Berkunjung ke daerah utara jogja, maka anda harus mencoba makanan khas yogyakarta ini, jadah tempe mbah carik. Jadah merupakan makanan khas kabupaten sleman. Jadah terbuat dari ketan yang dicampur dengan kelapa dan memilik cita rasa gurih. Jadah biasanya disajikan bersama dengan tempe bacem manis. Anda dapat mendapatkan seporsi jadah tempe di warung jadah tempe mbah carik yang terletak di daerah hargobinangun, pakem.",
+            "Sepeti namanya, sate kelinci berbahan dasar daging kelinci yang ditusuk menggunakan sebatang lidi kemudian dibakar. Sate kelinci mbah ganis memang baru buka pada malam hari, sangat cocok disantap di udara kaliurang yang dingin bersama dengan segelas teh hangat ataupun kopi.",
+            "Satu lagi kuliner yang masuk dalam daftar makanan khas jogja yang enak, yaitu enthog slenget. Jika anda sedang berkunjung ke utara jogja tepatnya daerah Turi, maka anda wajib mencicipi kuliner yang satu ini. Satu porsi enthog slenget berisi daging enthog yang dimasak ala semur lengkap dengan cabai untuk menghasilkan rasa pedas. Di warung makan enthog slenget kang tanir, biasanya ditambah dengan merica bubuk agar rasa pedasnya lebih bertahan lama di mulut."
     };
 
     private static int[] FotoDrakor = {
-            R.drawable.theheirs,
-            R.drawable.dots,
-            R.drawable.wyws,
-            R.drawable.strong,
-            R.drawable.goblin,
-            R.drawable.legend,
-            R.drawable.gangnam2,
-            R.drawable.human,
-            R.drawable.hotel
+            R.drawable.gudeg,
+            R.drawable.krecek,
+            R.drawable.bakpia,
+            R.drawable.yangko,
+            R.drawable.cilok,
+            R.drawable.cenil,
+            R.drawable.sateklatak,
+            R.drawable.jadah,
+            R.drawable.satekelinci,
+            R.drawable.enthog
     };
 
     public static ArrayList<Drakor> getListData(){
