@@ -86,3 +86,48 @@ UTS
 ![2  uts2](https://user-images.githubusercontent.com/53525860/69010751-43c54400-0995-11ea-9bd5-109230b4efe1.jpg)
 
 ![3  uts3](https://user-images.githubusercontent.com/53525860/69010752-46279e00-0995-11ea-8136-b7a480c7244b.jpg)
+
+8. MyLocalization
+
+![Screenshot_2020-01-04-18-35-43-859_com example mylocalization](https://user-images.githubusercontent.com/53525860/71765623-cbf1af80-2f29-11ea-83c5-acf82b01196f.png)
+
+![Screenshot_2020-01-04-18-43-04-465_com example mylocalization](https://user-images.githubusercontent.com/53525860/71765631-d449ea80-2f29-11ea-85a8-1959b606d7c9.png)
+
+![Screenshot_2020-01-04-18-45-07-678_com example mylocalization](https://user-images.githubusercontent.com/53525860/71765634-db70f880-2f29-11ea-87e5-27f671fa5388.png)
+
+![Screenshot_2020-01-04-18-45-35-256_com example mylocalization](https://user-images.githubusercontent.com/53525860/71765638-e2980680-2f29-11ea-885e-3c67fd0a5a15.png)
+
+![Screenshot_2020-01-04-18-44-22-540_com example mylocalization](https://user-images.githubusercontent.com/53525860/71765640-e88de780-2f29-11ea-9466-b34f857070fa.png)
+
+9. MyBackGroundThread
+
+![Screenshot_2020-01-04-16-27-44-974_com hapsari mybackgroundthread](https://user-images.githubusercontent.com/53525860/71765667-2ee34680-2f2a-11ea-932d-7a4657d83a4b.png)
+
+![Screenshot_2020-01-04-16-27-42-453_com hapsari mybackgroundthread](https://user-images.githubusercontent.com/53525860/71765670-373b8180-2f2a-11ea-9ac0-1a4dc2c945e9.png)
+
+10.  MyLoader
+
+![Screenshot_2020-01-04-16-50-14-332_com google android packageinstaller](https://user-images.githubusercontent.com/53525860/71765698-8386c180-2f2a-11ea-8eb9-79c88f989684.png)
+
+![Screenshot_2020-01-04-17-14-18-875_com android incallui](https://user-images.githubusercontent.com/53525860/71765704-96999180-2f2a-11ea-8d38-0d93220c6fa7.png)
+
+11. MyViewHolder
+
+![Screenshot_2020-01-04-17-47-45-240_com hapsari myviewholder](https://user-images.githubusercontent.com/53525860/71765766-e11b0e00-2f2a-11ea-93b7-f0b51ea0c65b.png)
+
+![Screenshot_2020-01-04-17-48-21-441_com hapsari myviewholder](https://user-images.githubusercontent.com/53525860/71765770-e8dab280-2f2a-11ea-8ad3-039d8fb3d62b.png)
+
+12. MyClass
+
+![Screenshot_2020-01-04-16-08-48-510_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765779-027bfa00-2f2b-11ea-8689-af5b7d084a3c.png)
+
+![Screenshot_2020-01-04-16-09-45-341_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765790-17f12400-2f2b-11ea-9a7f-49ff2f7f1e34.png)
+
+![Screenshot_2020-01-04-16-10-03-794_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765793-23dce600-2f2b-11ea-90d3-5410661deb6f.png)
+
+![Screenshot_2020-01-04-16-10-23-601_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765799-2b9c8a80-2f2b-11ea-915f-b3341c7450eb.png)
+
+![Screenshot_2020-01-04-16-09-27-608_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765802-348d5c00-2f2b-11ea-8a3b-c0aa9e31b3dd.png)
+
+![Screenshot_2020-01-04-16-11-19-713_com hapsari myclass](https://user-images.githubusercontent.com/53525860/71765805-3ce59700-2f2b-11ea-9410-6a92af101e50.png)
+
